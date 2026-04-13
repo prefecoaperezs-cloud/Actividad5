@@ -1,0 +1,85 @@
+
+body{
+margin:0;
+font-family:Arial;
+background:#f4f6f9;
+}
+
+table{
+width:100%;
+border-collapse:collapse;
+}
+
+td{
+border:1px solid #ddd;
+padding:15px;
+vertical-align:top;
+}
+
+.header{
+background:#0a254b;
+color:white;
+font-size:32px;
+text-align:center;
+padding:30px;
+}
+
+.menu{
+background:#2c5282;
+color:white;
+width:200px;
+}
+
+.menu a{
+display:block;
+color:white;
+text-decoration:none;
+padding:10px;
+margin:5px 0;
+background:#3b6aa0;
+border-radius:5px;
+}
+
+.menu a:hover{
+background:#1f3a5f;
+}
+
+.banner{
+background:#e8eef6;
+text-align:center;
+}
+
+.galeria img{
+width:100%;
+border-radius:6px;
+}
+
+.contenido{
+background:rgb(36, 230, 197);
+}
+
+.noticias{
+background:#5351c9;
+}
+
+.publicidad{
+background:#b99930;
+text-align:center;
+}
+
+.video{
+background:#17e972;
+text-align:center;
+}
+
+.footer{
+background:#0f741d;
+color:rgb(12, 9, 9);
+text-align:center;
+font-size:14px;
+padding:20px;
+}
+
+h2{
+margin-top:0;
+}
